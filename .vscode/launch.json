@@ -10,7 +10,7 @@
             "request": "attach",
             "pathMappings": [
                 {
-                    "localRoot": "${workspaceRoot}\\src",
+                    "localRoot": "${workspaceRoot}/src",
                     "remoteRoot": "/usr/lib/enigma2/python/Plugins/Extensions/Example",
                 },
             ],
