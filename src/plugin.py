@@ -27,8 +27,8 @@ class HalloWorldScreen(Screen):
             "cancel": self.plugin_cancel,
             "ok": self.switch
         }, -1)
-        #self.show_overzicht()
-        self.test()
+        self.show_overzicht()
+        #self.test()
 
     def plugin_cancel(self):
         self.show()
